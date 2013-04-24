@@ -18,6 +18,8 @@ import com.bastial.android.clock.activity.manage.BastialActivityManager;
  */
 public class BastialBaseActivity extends Activity {
 
+
+
 	private final String TAG = "BastialBaseActivity";
 	
 	private BastialActivityManager mActivityManager = null;
